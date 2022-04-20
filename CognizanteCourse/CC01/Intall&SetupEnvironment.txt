@@ -1,0 +1,10 @@
+Terminal
+	Python or PY to open terminal
+	exit() to close terminal
+	
+	print('My first Python program')
+	a = 2
+	b = 3
+	result = a + b
+	print(result)
+
